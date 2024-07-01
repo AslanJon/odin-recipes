@@ -1,3 +1,43 @@
-h1{
+body{
+    font-size: 22px;
+    
+}
+
+
+h1, 
+div{
     text-align: center;
+
+}
+
+
+
+h1+p,
+div+p{
+    text-align: center;
+}
+
+.lists{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.list-style{
+    list-style: none;
+}
+
+button{
+    font-size: 22px;
+    background-color:blue;
+    outline-style: double;
+    
+
+}
+
+button a{ 
+    color: white
 }
