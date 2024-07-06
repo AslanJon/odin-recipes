@@ -33,6 +33,7 @@ a{
 
 .list-style{
     list-style: none;
+    padding-inline-end: 40px
 }
 
 button{
@@ -59,5 +60,6 @@ button a{
 }
 
 .list{
-    margin-right: 
+    padding: 20px;
+    width: fit-content;
 }
