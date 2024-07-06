@@ -1,3 +1,8 @@
+
+html{
+    margin: auto;
+}
+
 body{
     font-size: 22px;
     
@@ -17,13 +22,13 @@ div+p{
     text-align: center;
 }
 
-.lists{
+.list-title{
     font-weight: bold;
 }
 
 a{
     text-decoration: none;
-
+    color: hsl(101, 95%, 26%);
 }
 
 .list-style{
@@ -40,4 +45,19 @@ button{
 
 button a{ 
     color: white
+}
+
+
+.main{
+    border: solid 2px black;
+    padding:10px;
+    margin: 10px auto;
+}
+
+.title{
+
+}
+
+.list{
+    margin-right: 
 }
